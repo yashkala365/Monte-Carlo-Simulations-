@@ -213,6 +213,3 @@ or open directly in Google Colab.
 **Yash**
 
 Aspiring Quantitative Researcher | Financial Engineer | Financial Analyst 
-
-```
-
