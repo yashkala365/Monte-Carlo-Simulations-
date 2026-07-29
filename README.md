@@ -158,7 +158,7 @@ Compares:
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Monte-Carlo-Option-Pricing.git
+git clone https://github.com/yashkala365/Monte-Carlo-Simulations-.git
 ```
 
 Install dependencies
@@ -212,13 +212,7 @@ or open directly in Google Colab.
 
 **Yash**
 
-Aspiring Quantitative Researcher | Financial Engineer | Python Developer
+Aspiring Quantitative Researcher | Financial Engineer | Financial Analyst 
 
 ```
 
-## ⭐ Recruiter Highlights
-
-- Uses **live market data** instead of static datasets.
-- Implements **both analytical (Black–Scholes)** and **numerical (Monte Carlo)** pricing approaches, allowing direct comparison.
-- Includes **Geometric Brownian Motion path simulation**, **terminal price distribution**, and **Asian option pricing**, demonstrating knowledge beyond basic option valuation.
-- Organized as an institutional-style workflow from data acquisition through simulation, valuation, visualization, and summary, making it suitable as a portfolio project for quantitative finance and financial engineering roles.
